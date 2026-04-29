@@ -26,8 +26,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/uma4oo/Recipe-page-challenge/)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://uma4oo.github.io/Recipe-page-challenge/)
 
 ## My process
 I started by structuring the HTML content first, then added CSS styles. I worked from the top of the page downward, styling each section one at a time.
